@@ -1,4 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/mHFJWvp/Mern-stact-developer.png)](https://github.com/tania51)
+
 
 # About Me:
     - I'm Tania Akter Bristy
@@ -52,3 +53,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=tania51&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![MasterHead](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)](https://github.com/tania51)
