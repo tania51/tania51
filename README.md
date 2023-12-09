@@ -5,7 +5,7 @@
     - I'm Tania Akter Bristy
     - A MERN Stact Developer
     - Recently, I'm exploring Next.js
-    - I wanna see myself as a Full Stack Developer within 4 years.
+    - I wanna be a Full Stack Developer within 4 years.
 
 ## 💻 Skills That I Have
 [![My Skills](https://skillicons.dev/icons?i=js,react,express,mongodb,nodejs,figma,firebase,html,css,tailwind,vscode,wordpress)](https://skillicons.dev)<br /><br />
@@ -14,7 +14,6 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tania51&theme=tokyonight&hide_border=false" />
 </div><br />
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=tania51&theme=tokyonight&hide_border=false)<br/> -->
 
 
 # Contact with me:
@@ -42,11 +41,11 @@
 
 # 👀 Current overview
 
-🔭 I’m - A MERN Stack Developer.
+🔭 I'm creating and developing website using tailwind, daisyUI, Meterial UI, React, MongoDB, Express, Node.js. For Authentication and Authorization, I used Firebase and JWT(JSON Web Tokens)
 
-🌱 I’m exploring - Next.js.
+🌱 Now I’m exploring - Next.js.
 
-🤔 I’m want - To learn Backend.
+🤔 My focus is also on Backend.
 
 ⚡ Fun fact - I love to solve issues which I'm facing on my code and also others code.
 
