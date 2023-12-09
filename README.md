@@ -1,7 +1,7 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tania Akter Bristy</h1>
 <h3 align="center">A MERN Stack Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tania51&label=Profile%20views&color=0e75b6&style=flat" alt="tania51" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://cars-ye.web.app](https://cars-ye.web.app)
+- 👨‍💻 All of my projects are available at [https://cars-ye.web.app](https://assignment-12-57b4f.web.app)
 
 - 💬 Ask me about **react, mongoDB, tailwind**
 
