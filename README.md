@@ -7,39 +7,50 @@
     - I wanna see myself as a Full Stack Developer within 4 years.
 
 ## 💻 Skills That I Have
-[![My Skills](https://skillicons.dev/icons?i=js,react,express,mongodb,nodejs,figma,firebase,html,css,tailwind,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,express,mongodb,nodejs,figma)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,html,css,tailwind,vscode,wordpress)](https://skillicons.dev) <br />
 
 # 📈 Current Stats:
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tania51&theme=tokyonight&hide_border=false" />
-</div>
+</div><br />
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=tania51&theme=tokyonight&hide_border=false)<br/> -->
 
 
 # Contact with me:
-<p align="center">
+<p align="center" margin-right="10px">
   <a href="https://github.com/tania51">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.linkedin.com/in/tania-akter-bristy-a7b2932a3/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-</p>
+</p><br />
 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tania51&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tania51&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+</div><br/>
 
 
 # Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tania51&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tania51&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div><br/>
 
-👀 Current overview
+# 👀 Current overview
+
 🔭 I’m - A MERN Stack Developer.
+
 🌱 I’m exploring - Next.js.
+
 🤔 I’m want - To learn Backend.
+
 ⚡ Fun fact - I love to solve issues which I'm facing on my code and also others code.
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=tania51&icon=0&color=0)](https://visitcount.itsvg.in)
