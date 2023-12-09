@@ -7,9 +7,7 @@
     - I wanna see myself as a Full Stack Developer within 4 years.
 
 ## 💻 Skills That I Have
-[![My Skills](https://skillicons.dev/icons?i=js,react,express,mongodb,nodejs,figma)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,html,css,tailwind,vscode,wordpress)](https://skillicons.dev) <br />
+[![My Skills](https://skillicons.dev/icons?i=js,react,express,mongodb,nodejs,figma,firebase,html,css,tailwind,vscode,wordpress)](https://skillicons.dev)<br /><br />
 
 # 📈 Current Stats:
 <div align="center">
